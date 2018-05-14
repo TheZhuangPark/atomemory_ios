@@ -1,6 +1,5 @@
-# atomemory_ios
-Atomemory 
-=======
+Atomemory
+====
 简介
 ------
 这是一个简单的使用objective-c编写的日记app, 数据库使用的是realm，还有使用了科大讯飞的sdk来实现了语音读转写功能，还有苹果内购框架。</br>
