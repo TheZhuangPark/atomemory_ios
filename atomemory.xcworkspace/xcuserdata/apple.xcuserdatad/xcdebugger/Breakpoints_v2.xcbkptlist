@@ -2666,13 +2666,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.716786"
+            timestampString = "549169855.413664"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1028"
             endingLineNumber = "1028"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2682,13 +2682,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.729679"
+            timestampString = "549169855.414173"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1035"
             endingLineNumber = "1035"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2698,13 +2698,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.731684"
+            timestampString = "549169855.414425"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1032"
             endingLineNumber = "1032"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2714,13 +2714,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.737812"
+            timestampString = "549169855.414667"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1039"
             endingLineNumber = "1039"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2730,13 +2730,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.739181"
+            timestampString = "549169855.41493"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1044"
-            endingLineNumber = "1044"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            endingLineNumber = "1044">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2746,13 +2744,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.740275"
+            timestampString = "549169855.41519"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1041"
             endingLineNumber = "1041"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2762,7 +2760,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.741263"
+            timestampString = "549169855.4155999"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "998"
@@ -2778,7 +2776,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.742204"
+            timestampString = "549169855.415854"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1022"
@@ -2794,12 +2792,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.743136"
+            timestampString = "549169855.416116"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1024"
             endingLineNumber = "1024"
-            landmarkName = "-btnDelete:"
+            landmarkName = "-didReceiveMemoryWarning"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2810,12 +2808,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.743963"
+            timestampString = "549169855.416381"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1027"
             endingLineNumber = "1027"
-            landmarkName = "-btnDelete:"
+            landmarkName = "-didReceiveMemoryWarning"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2826,13 +2824,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.7448291"
+            timestampString = "549169855.416644"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1038"
             endingLineNumber = "1038"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2842,13 +2840,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.7457711"
+            timestampString = "549169855.417165"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1040"
             endingLineNumber = "1040"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2858,13 +2856,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.746923"
+            timestampString = "549169855.417716"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1043"
-            endingLineNumber = "1043"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            endingLineNumber = "1043">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2874,13 +2870,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.748165"
+            timestampString = "549169855.41819"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1034"
             endingLineNumber = "1034"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2890,13 +2886,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.749691"
+            timestampString = "549169855.418533"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1029"
             endingLineNumber = "1029"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2906,13 +2902,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.75335"
+            timestampString = "549169855.4189399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1033"
             endingLineNumber = "1033"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2922,13 +2918,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.754705"
+            timestampString = "549169855.419351"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1030"
             endingLineNumber = "1030"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2938,60 +2934,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.755518"
+            timestampString = "549169855.41965"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1031"
             endingLineNumber = "1031"
-            landmarkName = "-btnDelete:"
-            landmarkType = "7">
+            landmarkName = "WritingLayoutViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.756449"
+            filePath = "../../../Desktop/ios/mine/diary/diary/diary/atomemory/ViewController.m"
+            timestampString = "549635968.619065"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "359"
-            endingLineNumber = "359"
-            landmarkName = "-creatCollectionView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.7570961"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "374"
-            endingLineNumber = "374"
-            landmarkName = "-collectionView:numberOfItemsInSection:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.757772"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "384"
-            endingLineNumber = "384"
-            landmarkName = "-collectionView:cellForItemAtIndexPath:"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "-viewDidLoad"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -3001,13 +2965,29 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../../../Desktop/ios/mine/diary/diary/diary/WritingView/WritingLayoutViewController.m"
-            timestampString = "548150672.758371"
+            filePath = "../../../Desktop/ios/mine/diary/diary/diary/atomemory/ViewController.m"
+            timestampString = "549635968.619825"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "400"
-            endingLineNumber = "400"
-            landmarkName = "-collectionView:layout:sizeForItemAtIndexPath:"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Desktop/ios/mine/diary/diary/diary/atomemory/ViewController.m"
+            timestampString = "549635968.620325"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-viewDidLoad"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
